@@ -151,7 +151,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://i.postimg.cc/gJV7ZJK5/Screenshot-20220811-114359.jpg)
+![image](https://github.com/TesterHubBot/FilesLinks/blob/05acef1a8ffbfa0fc4e5b6ba7adfc800f5495c8c/Mr.Hollywood.png)
 
 
 ### Channel Support
