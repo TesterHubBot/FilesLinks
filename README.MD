@@ -8,7 +8,7 @@
 
     <a href="https://telegram.me/"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
 
-    <br />
+    <br/>
 
   </p>
 
